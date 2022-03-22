@@ -1,0 +1,1359 @@
+# depslib dependency file v1.0
+1588088302 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.1\choix_atout.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588094985 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.1\coinche.h
+
+1588094160 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1588094920 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.1\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588106673 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.2\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588168549 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.2\coinche.h
+
+1588169645 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1588171077 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.2\annonces.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588192189 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.3\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588192189 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.3\coinche.h
+
+1588192322 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1588192643 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.3\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588330136 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.4\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588330019 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.4\coinche.h
+
+1588286703 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.4\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588331589 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.4\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1588330019 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1588422464 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.5\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588366750 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.5\coinche.h
+
+1588425583 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.5\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588354018 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1588426157 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.5\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1588354018 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1588850043 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.7\coinche.h
+
+1588850413 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.7\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588844437 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.7\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1588850204 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.7\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589053682 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.8\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589052510 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.8\coinche.h
+
+1589052510 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589050494 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.8\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589053682 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.8\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589117831 source:c:\users\le pat\documents\utbm\ifb\coinche.v.8\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589117831 c:\users\le pat\documents\utbm\ifb\coinche.v.8\coinche.h
+
+1589117831 source:c:\users\le pat\documents\utbm\ifb\coinche.v.8\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589117831 source:c:\users\le pat\documents\utbm\ifb\coinche.v.8\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589143322 source:c:\users\le pat\documents\utbm\ifb\coinche.v.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589143659 source:c:\users\le pat\documents\utbm\ifb\coinche.v.8\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589446283 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.9\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589445675 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.9\coinche.h
+
+1589445853 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.9\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589117831 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.9\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589446210 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.9\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589445544 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589442683 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589562984 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10\coinche.h
+
+1589442820 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589562315 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589443054 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589563062 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589730078 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10_verif\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589562984 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10_verif\coinche.h
+
+1589442820 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10_verif\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589443054 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10_verif\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589563062 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10_verif\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589730304 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.10_verif\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589733678 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.11\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589823574 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.11\coinche.h
+
+1589446420 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.11\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589446654 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.11\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589566662 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.11\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589820373 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325814033 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1589733678 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.12\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589823574 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.12\coinche.h
+
+1589446420 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.12\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589446654 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.12\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+
+1589566662 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.12\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+
+1589837475 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1590330185 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.13\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1590334378 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.13\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1590335145 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.13\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1590330185 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.13\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1590330448 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.13\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1590332793 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1590438743 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.14\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590438743 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.14\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590438743 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.14\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590439308 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.14\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590438744 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.14\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590439204 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1325818393 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1590438743 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.15\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590769019 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.15\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590769125 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.15\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590768977 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.15\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590438744 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.15\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590769134 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590933866 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.16\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590945887 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.16\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590939493 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.16\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590940084 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.16\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590946198 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590945887 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.16\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1590933866 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.17\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591037745 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.17\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591038085 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.17\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591036275 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.17\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591037745 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.17\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591037772 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591111984 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.18\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591121649 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.18\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591121649 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.18\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591121649 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.18\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591121774 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591115935 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.18\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591111984 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.19\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591381513 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.19\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591266291 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.19\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591381513 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591265637 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.19\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591381513 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.19\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591111984 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.20\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591381513 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.20\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591382379 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.20\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591266291 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.20\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591381513 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.20\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591381513 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591111984 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.21\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1592151507 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.21\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1592145897 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.21\coinche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591266291 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.21\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591381513 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.21\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1592148856 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\coinche.v.21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591111984 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\dugas-charles_dautremont-oscar\annonce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1592153192 c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\dugas-charles_dautremont-oscar\coinche.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1591266291 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\dugas-charles_dautremont-oscar\contrat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1592152278 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\dugas-charles_dautremont-oscar\en_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1592153347 source:c:\users\c-ducharles\onedrive - universite de technologie de belfort-montbeliard\utbm\ifb\projet belote\dugas-charles_dautremont-oscar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"coinche.h"
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
