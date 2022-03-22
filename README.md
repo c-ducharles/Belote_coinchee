@@ -1,4 +1,4 @@
-# Belote_coinchee
+# Belote_coinchee (2020)
 A classic game of "Belote" adapted on computer
 
 My game allows you to play a French card game named "Belote", however here is not the original version but a variant called "Belote coinchée"
