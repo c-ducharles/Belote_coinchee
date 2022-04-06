@@ -8,3 +8,5 @@ This game is only a single player game and the ally as well as the ennemies are 
 To play it, download the project and then go to bin/debug/coinche.exe which is the executable for the game.
 
 Enjoy ;)
+
+![image](https://user-images.githubusercontent.com/72990665/161940687-fb737dd2-176f-4f3c-a340-7aa61749f3de.png)
